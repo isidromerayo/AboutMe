@@ -1,0 +1,27 @@
+body {
+  background-color: #EEEEEE;
+  font-family: sans-serif;
+  font-size: 13px;
+  margin: 10px;
+  padding: 10px;
+}
+h1 {
+  color: #4D90FE;
+  border-bottom: 2px solid #4D90FE;
+  font-size: 2em;
+}
+h2 {
+  color: #3079ED;
+  font-size: 1.2em;
+}
+h2, p, ul {
+  margin: 5px;
+  padding: 5px;
+}
+
+li {
+   margin-left: 30px;
+}
+a:link { color: red; text-decoration: none; }
+a:visited { color: red; text-decoration: none; } 
+a:hover { color: blue; } 
